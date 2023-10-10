@@ -12,5 +12,10 @@ table {
 }
 
 th {
-	background-color: rgba(100, 100, 150, 120)
+	background-color: rgba(100, 100, 150, 120);
+}
+
+td {
+	border-style: solid;
+	border-width: 2px;
 }
